@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Sprawdz czy liczb jest parzysta czy nieporzesta"<< endl;
+    cout<<"Sprawdz czy liczba jest parzysta czy nieporzesta"<< endl;
     cout<<"Podaj liczbe" ;
     
     int liczba;
